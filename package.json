@@ -30,7 +30,7 @@
   "devDependencies": {
     "deep-diff": "^1.0.0",
     "event-stream": "^4.0.0",
-    "jshint": "^2.9.4",
+    "jshint": "^2.10.2",
     "precommit-hook": "^3.0.0",
     "proxyquire": "^2.0.0",
     "tap-spec": "^5.0.0",
